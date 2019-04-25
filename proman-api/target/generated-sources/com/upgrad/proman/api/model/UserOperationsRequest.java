@@ -12,7 +12,7 @@ import javax.validation.constraints.*;
  * UserOperationsRequest
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2019-04-25T09:04:20.392+05:30")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2019-04-25T11:15:16.284+05:30")
 
 public class UserOperationsRequest extends ArrayList<UserOperationRequest>  {
 

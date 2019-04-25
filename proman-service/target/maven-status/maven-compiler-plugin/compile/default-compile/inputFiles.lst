@@ -6,3 +6,4 @@
 /Users/rgummadi/Documents/blockchaincourse/proman/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java
 /Users/rgummadi/Documents/blockchaincourse/proman/proman-service/src/main/java/com/upgrad/proman/service/entity/RoleEntity.java
 /Users/rgummadi/Documents/blockchaincourse/proman/proman-service/src/main/java/com/upgrad/proman/service/business/SignupBusinessService.java
+/Users/rgummadi/Documents/blockchaincourse/proman/proman-service/src/main/java/com/upgrad/proman/service/exception/ResourceNotFoundException.java
